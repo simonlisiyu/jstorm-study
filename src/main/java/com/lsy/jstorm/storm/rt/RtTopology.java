@@ -26,7 +26,7 @@ public class RtTopology {
         BrokerHosts brokerHosts =new ZkHosts("172.27.36.85:2181,172.27.36.86:2181,172.27.36.87:2181,172.27.36.98:2181,172.27.36.99:2181"
                 ,"/rt/kafka/brokers");
         //接收消息队列的主题
-        String topic="com.jd.rt";
+        String topic="com.lsy.rt";
         //zookeeper汇报offset信息的root路径，如果该项为空则等待最新
         String offsetZkRoot="/rt";
         //存储该spout id的消费offset信息,譬如以topoName来命名，记录offset需要与上面的offsetZkRoot一致
