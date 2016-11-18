@@ -31,7 +31,7 @@
 </property>
 <property>
     <name>dfs.namenode.secondary.http-address</name>
-    <value>A06-R12-302F0403-I36-70.GZ01.JCLOUD.COM:9001</value>
+    <value>xxx:9001</value>
 </property>
 <property>
     <name>dfs.datanode.address</name>

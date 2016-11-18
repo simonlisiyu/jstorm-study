@@ -20,7 +20,7 @@
 
 <property>
     <name>fs.default.name</name>
-    <value>hdfs://A06-R12-302F0403-I36-70.GZ01.JCLOUD.COM:9000</value>
+    <value>hdfs://xxx:9000</value>
 </property>
 <property>
     <name>hadoop.tmp.dir</name>
